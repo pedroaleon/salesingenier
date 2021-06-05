@@ -1,0 +1,43 @@
+
+account_id created =>
+
+SalesIngennier Account ID:
+16b5d06d-40bb-4620-b84d-a256d4e752c3
+
+
+Keeping in mind your experience with this Technical Assessment, please
+share with us what is the definition of tokenization, authorize, capture, charge,
+void, and refund.
+
+Respuesta:
+
+Al respecto del desarrollo de este Technical Assessment, sdebo decir que fue un reto interesante para mi, puesto que me permito 
+desarrollar una investigacion y lectura sobre Api rest, java scrip, css, refrescar conociemiento sobre lenguajes de sowftware, 
+que hoy en dia son de mucha actualidad y funcionalidad en nuestra realidad actual, sumado a nuestra situacion de pandemia, son 
+elementos imporantes para el desarrollo profesional
+
+definicion de tokenization:
+sinomimo de seguridad, confiabilidad en las transaccion realizadas via internet (e-commerce) auqnue tambien es usado por las entidades
+financieras en sus lataformas transaccionales, garantizando asi la seguridad en las transacciones online de pagos
+
+definicion authorize : 
+se refiere a la validacion en base de datos del usuario que realiaza el login y a su vez valida los permisos de acceso
+que tendra dentro de la aplicacion, (lectura, escritura)
+
+
+define capture: 
+se refiere a la captura de la informacion ingresada por el usuario de la aplicacion, relacionada con la compra del producto 
+o transaccion que realiza en la aplicacion
+
+define charge:
+le permite crear nuevos cargos a la tarjeta de credito inscrita en la pagina y revisar el detalle de los cargos realizdas
+a la tarjeta
+
+define void:
+es una palabra reserva del codigo que permite retornar valores a una funcion diseñada
+
+define refund:
+esta funcion permite realizar devolucion y/o reembolso del dinero causado en una transaccion, mediante la pagina
+
+
+
